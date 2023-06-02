@@ -11,13 +11,13 @@
     }
   ],
   "browser_action": {
-    "default_icon": "icons/icon2.png"
+    "default_icon": "icon2.png"
   },
   "icons": {
-    "16": "icons/icon1.png",
-    "32": "icons/icon2.png",
-    "48": "icons/icon3.png",
-    "64": "icons/icon4.png",
-    "128": "icons/icon5.png"
+    "16": "icon1.png",
+    "32": "icon2.png",
+    "48": "icon3.png",
+    "64": "icon4.png",
+    "128": "icon5.png"
   }
 }
